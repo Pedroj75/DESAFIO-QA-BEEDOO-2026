@@ -104,6 +104,7 @@ As evidências de execução (prints e gravações de tela) estão organizadas p
 | B09 | Cadastro de curso duplicado | Média |
 | B10 | Quebra de layout com nomes de cursos longos | Baixa |
 | B11 | Aceitação de ano inválido no campo de data | Alta |
+| B12 | Vulnerabilidade XSS no campo de nome   | Alta |
 
 O relatório completo com passos para reproduzir, resultado atual e resultado esperado está disponível na planilha linkada acima.
 
