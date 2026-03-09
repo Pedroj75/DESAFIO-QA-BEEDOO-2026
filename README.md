@@ -85,7 +85,7 @@ As evidências de execução (prints e gravações de tela) estão organizadas p
 
 ```
 
-> Os demais bugs (B01 a B06 e B09 a B11) estão evidenciados nos vídeos dos casos de teste correspondentes, conforme coluna "Bug Relacionado" na planilha.
+> Os demais bugs (B01 a B06 e B09 a B11) estão evidenciados nos vídeos dos casos de teste correspondentes, conforme coluna "Bug Relacionado" na planilha. 
 
 ---
 
