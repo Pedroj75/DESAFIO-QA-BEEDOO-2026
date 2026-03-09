@@ -1,7 +1,7 @@
 # DESAFIO-QA-BEEDOO-2026
 
 ## Análise da Aplicação
-
+**Aplicação testada:** [https://creative-sherbet-a51eac.netlify.app/](https://creative-sherbet-a51eac.netlify.app/)
 ### Objetivo da aplicação
 A aplicação consiste em uma plataforma de gerenciamento de cursos, permitindo o cadastro e a listagem de cursos com informações como nome, descrição, modalidade (presencial ou online), datas de início e fim, número de vagas e imagem de capa.
 
