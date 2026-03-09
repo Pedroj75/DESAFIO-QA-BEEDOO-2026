@@ -81,6 +81,8 @@ As evidências de execução (prints e gravações de tela) estão organizadas p
 └── 📁 Bugs
     ├── 📹 B07-Notificações de Exclusão Duplicadas
     └── 📹 B08-Desalinhamento de Layout nos Cards
+    └── 📹 B12-Vulnerabilidade XSS no campo de nome
+
 ```
 
 > Os demais bugs (B01 a B06 e B09 a B11) estão evidenciados nos vídeos dos casos de teste correspondentes, conforme coluna "Bug Relacionado" na planilha.
